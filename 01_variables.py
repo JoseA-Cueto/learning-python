@@ -36,4 +36,5 @@ IMPORTANTE
  El tipo de una variable se determina en tiempo de ejecución y puede cambiar y
  No permite conversiones implícitas entre tipos incompatibles)"
  """
-"type es una funcion que nos permite saber el tipo de dato de una variable "
+"type es una funcion que nos permite saber el tipo de dato de una variable ejemplo:"
+print(type(5))
