@@ -29,9 +29,11 @@ age_input = input("Cual es tu edad: ")
 
 print(name_input)
 print(age_input)
+
 """
 IMPORTANTE
  Existen varios tipos de tipados python es de tipado dinamico y fuerte (
  El tipo de una variable se determina en tiempo de ejecución y puede cambiar y
  No permite conversiones implícitas entre tipos incompatibles)"
  """
+"type es una funcion que nos permite saber el tipo de dato de una variable "
