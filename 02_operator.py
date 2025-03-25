@@ -28,4 +28,10 @@ print(3!=4)
 #Tambien podemos hacer comparaciones con los string ejmeplo:
 print("Hola" < "Python")
 print("Hola" == "Python")
+
 print("Hola"<"Zola")#Comparacion alfabetica en un orden
+
+
+#Operadores Logicos
+print(3 > 4 and "Hola" < "Python" ) # El operador and que en c# es && aca seria and
+print(3 > 4 or "Hola" < "Python" ) # EL operador or que en c# es || aca seria or
