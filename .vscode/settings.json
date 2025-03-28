@@ -1,0 +1,25 @@
+{
+    "better-comments.tags": [
+  {
+    "tag": "TODO:",
+    "color": "#FFA500", // Naranja
+    "bold": true
+  },
+  {
+    "tag": "WARNING:",
+    "color": "#FFD700", // Amarillo
+    "bold": true
+  },
+  {
+    "tag": "ERROR:",
+    "color": "#FF0000", // Rojo
+    "bold": true
+  },
+  {
+    "tag": "INFO:",
+    "color": "#00FF00", // Verde
+    "bold": true
+  }
+]
+
+}
