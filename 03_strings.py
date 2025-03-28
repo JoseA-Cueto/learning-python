@@ -23,3 +23,20 @@ print(f"Mi nombre es {name} {surname} y mi edad es {age}") #INFO: Forma correcta
 
 
 #Desempaquetado de caracteres 
+lenguaje ="Python"
+a,b,c,d,e,f = lenguaje
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
+
+#Division
+#Esto funciona = que un array , al final un string es un array d caracteres , asi q comienza en la posicion 0
+lenaguaje_slice =lenguaje[1:3]
+print(lenaguaje_slice)
+
+#WARNING: al no existir el -0 , el final empezaria en -1
+reversed_lenguaje = lenguaje[::-1]
+print(reversed_lenguaje)
