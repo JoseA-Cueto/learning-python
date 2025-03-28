@@ -49,3 +49,5 @@ print(lenguaje.upper() )  # warning:Pone todo en mayus
 print(lenguaje.count("p") )  # warning: Cuentas las P
 
 print(lenguaje.lower() ) # warning: Todo a minuscula
+
+print(lenguaje.startswith("py") ) # warning: booleando para ver con que empieza
